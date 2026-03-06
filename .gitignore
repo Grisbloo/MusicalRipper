@@ -1,0 +1,12 @@
+# Ignore downloaded audio files
+*.mp3
+*.wav
+*.ogg
+
+# Ignore local playlists files
+*.csv
+*.txt
+
+# Ignore Python cache
+__pycache__/
+*.pyc
