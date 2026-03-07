@@ -1,2 +1,9 @@
 # MusicalRipper
-A program that asks for a user to input either a .csv file or a .txt file in order to use SomeDL to route back to a youtube link that gives them back the same song (Spotify to youtube to mp3/wav/oog) without the need for the API to be used
+Bulk Audio Downloader & Metadata locator
+
+A python script that parses either a .CSV or .Txt playlist file and applies SomeDL to each to download them, thus ignoring API restrictions.
+
+Python 3 and FFmpeg are required to run the program.
+
+TO RUN:
+python MusicalRipper1.0.0.py
