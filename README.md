@@ -1,9 +1,13 @@
-# MusicalRipper
-Bulk Audio Downloader & Metadata locator
+### WIP!!!!!!
 
-A python script that parses either a .CSV or .Txt playlist file and applies SomeDL to each to download them, thus ignoring API restrictions.
+## Musical Ripper - Automated Playlist Downloader
 
-Python 3 and FFmpeg are required to run the program.
+## Features:
 
-TO RUN:
-python MusicalRipper1.0.0.py
+Multi-Engine Routing: Uses Chosic for Spotify to bypass OAuth/Login walls and TuneMyMusic for other platforms.
+
+Headless Automation: Runs invisibly in the background for a "native app" feel.
+
+Fail-Fast Validation: Includes UI-level URL validation and thread-safe error logging.
+
+Indeterminate UI: Managed threading to keep the GUI responsive during heavy automation tasks.
